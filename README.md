@@ -1,4 +1,4 @@
-# 86MiniCNC
+# 86MiniCNC Ver.0.5
 
 86MiniCNC is an open-source, all 3D-printed Mini CNC designed by Chris Wang (chris.wang@dmp.com.tw) for Motion86 library DEMO (http://www.86duino.com/?p=19443&lang=TW).
 All parts as well as the actuator mechanism are printed by "86Duino Enjoy" 3D Printer. 
